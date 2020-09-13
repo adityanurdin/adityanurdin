@@ -1,4 +1,4 @@
-### Hello World, im Aditya 👋
+### 👋 Hello World, i'm Aditya! 
 
 
 <!--
