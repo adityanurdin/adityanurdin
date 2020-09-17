@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Labs Litecloud ID
 - 🌱 I’m currently learning Adonis.js
-- 👯 I’m looking to collaborate on Adonis.js
+- 👯 I’m looking to collaborate on Adonis.js or Laravel
 - 🤔 I’m looking for help with K8s
 - 💬 Ask me about Anything
 - 📫 How to reach me: [E-mail](mailto:aditya@litecloud.id)
