@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [E-mail](mailto:aditya@litecloud.id)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💘 👩
+- 🐅 II is the best tank
